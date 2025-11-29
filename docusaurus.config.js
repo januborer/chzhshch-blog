@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'gavfu', // Usually your GitHub org/user name.
+  organizationName: 'chanxishe', // Usually your GitHub org/user name.
   projectName: 'chzhshch-blog', // Usually your repo name.
 
   // stylesheets: [
@@ -59,7 +59,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
-          //   'https://github.com/gavfu/chzhshch-blog/edit/main/',
+          //   'https://github.com/chanxishe/chzhshch-blog/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -251,7 +251,7 @@ const config = {
             label: '捐赠',
           },
           // {
-          //   href: 'https://github.com/gavfu/chzhshch-blog',
+          //   href: 'https://github.com/chanxishe/chzhshch-blog',
           //   // label: 'GitHub',
           //   position: 'right',
           //   className: 'header-github-link',
