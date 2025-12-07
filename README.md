@@ -4,17 +4,5 @@
 
 世人皆苦，希望“永远只愿意站立”，而且“希望探索、展示人的所有潜能、可能”的“缠中说禅”，能通过本站的存在，照亮一方天地，给越来越多的世人以智慧、财富和勇气。
 
-# 支持本站
-
-本站将在本人力所能及的前提下长期存在，您也可以通过以下方式表达支持：
-
-- 通过 [Telegram](https://t.me/chzhshchblog) 反馈相关文档错误或疏漏
-- 关注微信公众号<br/>
-  <img src="/static/img/chanxishe.png" width="260" /><br/>
-- <img src="/static/img/fire.png" width="25" height="25" />[捐赠](https://chzhshch.blog/donate)
-- 点击网站广告
-
-## 本站地址
-
 **主网址**
 https://chzhshch.blog
